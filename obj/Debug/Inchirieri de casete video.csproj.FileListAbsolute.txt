@@ -1,0 +1,18 @@
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\bin\Debug\Inchirieri de casete video.exe.config
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\bin\Debug\Inchirieri de casete video.exe
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\bin\Debug\Inchirieri de casete video.pdb
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.FormClienti.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.Properties.Resources.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri de casete video.csproj.GenerateResource.cache
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri de casete video.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri de casete video.exe
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri de casete video.pdb
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.FormFilme.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.PaginaPrincipala.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.FormInchirieri.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.FormCost.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\bin\Debug\seminar 10.dll
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\bin\Debug\seminar 10.pdb
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri_de_casete_video.IMDb.resources
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri de casete video.csproj.CopyComplete
+C:\Users\irina\OneDrive\Documents\Lucruri pentru facultate\An II\Sem 2\Programarea aplicațiilor Windows\seminar\Inchirieri de casete video\obj\Debug\Inchirieri de casete video.csproj.AssemblyReference.cache
