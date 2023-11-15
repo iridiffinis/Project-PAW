@@ -1,6 +1,6 @@
-# Proiect - Programarea aplicațiilor Windows
-Închirieri de casete video
-
+# Project - Windows Applications Programming
+## Video tape rentals
+Windows application developed in C#, for the Windows Application Programming discipline, through which a video rental store can keep track of customers, orders and movies they have.
 
 ![image](https://github.com/iridiffinis/Proiect-PAW/assets/102820231/da524911-5b42-4ed0-a7c4-b7a529356d29)
 
